@@ -1,6 +1,6 @@
 # hackupc
 
-A new Flutter project.
+Home widget example
 
 ## Getting Started
 
